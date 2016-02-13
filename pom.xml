@@ -4,7 +4,6 @@
     <groupId>ru.burtseyg</groupId>
     <artifactId>core-java</artifactId>
     <version>0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
 
 
 </project>
